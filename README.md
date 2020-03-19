@@ -1,4 +1,4 @@
-# WingTel Coding Challenge 2
+# Flask Code
 
 ## Requirements
 * Python 3.5+
